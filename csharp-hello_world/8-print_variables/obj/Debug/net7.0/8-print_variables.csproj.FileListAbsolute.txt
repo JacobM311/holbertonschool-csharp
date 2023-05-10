@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/refint/8-print_variables.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/ref/8-print_variables.dll
