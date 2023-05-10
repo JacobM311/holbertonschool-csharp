@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/refint/7-concat.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/ref/7-concat.dll
