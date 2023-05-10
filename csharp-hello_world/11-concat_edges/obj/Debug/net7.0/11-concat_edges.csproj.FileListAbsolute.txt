@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/bin/Debug/net7.0/11-concat_edges.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/refint/11-concat_edges.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/11-concat_edges.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hello_world/11-concat_edges/obj/Debug/net7.0/ref/11-concat_edges.dll
