@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/net7.0/9-add
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/net7.0/9-add.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/net7.0/9-add.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/net7.0/9-add.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/net7.0/9-add.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/refint/9-add.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/9-add.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/net7.0/ref/9-add.dll
