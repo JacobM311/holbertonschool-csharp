@@ -24,6 +24,6 @@ class Program
             comparison = "and is less than 6 and not 0";
         }
         
-        Console.WriteLine("{0} {1}.", lastDigit, comparison);
+        Console.WriteLine("{0} {1}", lastDigit, comparison);
     }
 }
