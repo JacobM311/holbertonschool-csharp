@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/refint/4-print_hexa.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/ref/4-print_hexa.dll
