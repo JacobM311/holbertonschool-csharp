@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/refint/5-print_comb.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/ref/5-print_comb.dll
