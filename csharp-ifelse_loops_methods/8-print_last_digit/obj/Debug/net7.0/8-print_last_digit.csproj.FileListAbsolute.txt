@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/net7.0/8-print_last_digit
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/net7.0/8-print_last_digit.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/net7.0/8-print_last_digit.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/net7.0/8-print_last_digit.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/net7.0/8-print_last_digit.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/refint/8-print_last_digit.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/8-print_last_digit.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/net7.0/ref/8-print_last_digit.dll
