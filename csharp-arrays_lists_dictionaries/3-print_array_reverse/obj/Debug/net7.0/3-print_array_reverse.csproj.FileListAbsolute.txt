@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net7.0/3-print_array_reverse
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net7.0/3-print_array_reverse.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net7.0/3-print_array_reverse.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net7.0/3-print_array_reverse.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/net7.0/3-print_array_reverse.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/refint/3-print_array_reverse.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/3-print_array_reverse.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/net7.0/ref/3-print_array_reverse.dll
