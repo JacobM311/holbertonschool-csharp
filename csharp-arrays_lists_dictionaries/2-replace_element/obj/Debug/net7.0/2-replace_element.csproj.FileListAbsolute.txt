@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/refint/2-replace_element.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/ref/2-replace_element.dll
