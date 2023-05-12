@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/bin/Debug/net7.0/1-element_at
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/bin/Debug/net7.0/1-element_at.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/bin/Debug/net7.0/1-element_at.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/bin/Debug/net7.0/1-element_at.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/bin/Debug/net7.0/1-element_at.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/refint/1-element_at.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/1-element_at.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/1-element_at/obj/Debug/net7.0/ref/1-element_at.dll
