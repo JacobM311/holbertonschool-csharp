@@ -1,21 +1,23 @@
 ﻿using System;
-using System.Linq;
 
 class Array
 {
+    public static int[] CreatePrint(int size)
+    {
+        if (size < 0)
+        {
+            Console.WriteLine("Size cannot be negative");
+            return null;
+        }
 
-	public static int[] CreatePrint(int size)
-	{
-		int[] IntArray;
-
-		IntArray = size > 0 ? Enumerable.Range(0, size).ToArray() : (size == 0 ? new int[0] : null);
-
-		Console.WriteLine(size > 0
-				  ? string.Join(" ", IntArray)
-				  : size == 0
-				  ? "\n"
-				  : "Size cannot be negative");
-
-		return IntArray;
-	}
+        int[] numbers = new int[size];
+        for (int i = 0; i < size; i++)
+        {
+            numbers[i] = i;
+            Console.Write(numbers[i] + " ");
+        }
+        
+        Console.WriteLine();
+        return numbers;
+    }
 }
