@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp7.0/4-print_list
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp7.0/4-print_list.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp7.0/4-print_list.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp7.0/4-print_list.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/netcoreapp7.0/4-print_list.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/refint/4-print_list.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/4-print_list.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp7.0/ref/4-print_list.dll

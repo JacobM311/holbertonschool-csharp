@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/4-print_list.csproj",
-      "projectName": "4-print_list",
-      "projectPath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/4-print_list.csproj",
+      "projectUniqueName": "/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj",
+      "projectName": "14-rectangular_array",
+      "projectPath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj",
       "packagesPath": "/Users/jacobmarshall/.nuget/packages/",
-      "outputPath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/",
+      "outputPath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jacobmarshall/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp7.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
-          "targetAlias": "netcoreapp7.0",
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -42,7 +42,7 @@
     },
     "frameworks": {
       "net7.0": {
-        "targetAlias": "netcoreapp7.0",
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
