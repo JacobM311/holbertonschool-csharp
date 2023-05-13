@@ -1,20 +1,24 @@
 using System;
 using System.Collections.Generic;
 
-class Program
+class List
 {
-    static void Main(string[] args)
+    public static List<int> DeleteAt(List<int> myList, int index)
     {
-        List<int> myList = new List<int>() {1, 2, 3, 4, 5};
+        if (index < 0 || index >= myList.Count)
+        {
+            Console.WriteLine("Index is out of range");
+            return myList;
+        }
 
-        foreach (int i in myList)
-            Console.WriteLine(i);
+        List<int> updatedList = new List<int>();
 
-        Console.WriteLine("----------");
+        for (int i = 0; i < myList.Count; i++)
+        {
+            if (i != index)
+                updatedList.Add(myList[i]);
+        }
 
-        List.DeleteAt(myList, 2);
-
-        foreach (int i in myList)
-            Console.WriteLine(i);
+        return updatedList;
     }
 }
