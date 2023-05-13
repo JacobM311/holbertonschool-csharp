@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.csproj.CoreCompileInputs.cache

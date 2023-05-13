@@ -11,10 +11,14 @@ class List
             return myList;
         }
 
-        List<int> updatedList = new List<int>(myList);
+        List<int> updatedList = new List<int>();
 
-        updatedList.RemoveAt(index);
-        
+        for (int i = 0; i < myList.Count; i++)
+        {
+            if (i != index)
+                updatedList.Add(myList[i]);
+        }
+
         return updatedList;
     }
 }
