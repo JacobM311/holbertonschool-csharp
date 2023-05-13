@@ -6,21 +6,26 @@ class Program
     {
         int[,] array = new int[5, 5];
 
+        // Initialize the array with 0s
         for (int i = 0; i < 5; i++)
         {
             for (int j = 0; j < 5; j++)
             {
-                array[i, j] = 0;
+                if (i == 2 && j == 2)
+                    array[i, j] = 1;
+                else
+                    array[i, j] = 0;
             }
         }
 
-        array[2, 2] = 1;
-
+        // Print the array
         for (int i = 0; i < 5; i++)
         {
             for (int j = 0; j < 5; j++)
             {
-                Console.Write(array[i, j] + " ");
+                Console.Write(array[i, j]);
+                if (j < 4)
+                    Console.Write(" ");
             }
             Console.WriteLine();
         }
