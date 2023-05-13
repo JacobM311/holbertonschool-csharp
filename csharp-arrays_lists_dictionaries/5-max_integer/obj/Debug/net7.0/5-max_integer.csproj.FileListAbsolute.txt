@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/refint/5-max_integer.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/ref/5-max_integer.dll
