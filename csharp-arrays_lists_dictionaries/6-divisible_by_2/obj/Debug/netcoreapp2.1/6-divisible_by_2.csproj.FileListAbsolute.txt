@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.csproj.CoreCompileInputs.cache
