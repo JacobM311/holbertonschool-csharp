@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace DivisibleBy2Program
 {
-    class ListProgram
+    class List
     {
 
         static List<bool> DivisibleBy2(List<int> myList)
