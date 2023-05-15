@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net7.0/8-number_keys
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net7.0/8-number_keys.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net7.0/8-number_keys.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net7.0/8-number_keys.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net7.0/8-number_keys.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/refint/8-number_keys.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/8-number_keys.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net7.0/ref/8-number_keys.dll
