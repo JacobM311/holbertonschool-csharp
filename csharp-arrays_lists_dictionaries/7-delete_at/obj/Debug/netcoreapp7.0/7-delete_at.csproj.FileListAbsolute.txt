@@ -3,3 +3,13 @@
 /Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.AssemblyInfoInputs.cache
 /Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.AssemblyInfo.cs
 /Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp7.0/7-delete_at
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp7.0/7-delete_at.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp7.0/7-delete_at.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp7.0/7-delete_at.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp7.0/7-delete_at.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/refint/7-delete_at.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/7-delete_at.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp7.0/ref/7-delete_at.dll
