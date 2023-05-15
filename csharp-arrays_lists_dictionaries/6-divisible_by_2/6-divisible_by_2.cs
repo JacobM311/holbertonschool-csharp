@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DivisibleBy2Program
-{
+
+
     class List
     {
 
@@ -18,4 +18,3 @@ namespace DivisibleBy2Program
             return result;
         }
     }
-}
