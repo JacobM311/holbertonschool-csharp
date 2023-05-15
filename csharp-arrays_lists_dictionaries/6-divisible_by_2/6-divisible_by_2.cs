@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 
 
-    class Public List
+    class public Lists
     {
 
         static List<bool> DivisibleBy2(List<int> myList)

@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "EgpOCyn5GtCFnHC/Wzl+2YGjrOnW/Al1y+VqQB+zfeomxEX72bktCsKFTYVDJQBsbDPl+C3AMThiLeKl6bLs+w==",
+  "dgSpecHash": "GJu8Xcbh0LhWZgJY6JJg7LF3pWCed4dc63BbnygpVPsKYOaNZhl9Bp7UuCEE/l9jLg/ECWcd8mlyKYK8gKaJcQ==",
   "success": true,
   "projectFilePath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/6-divisible_by_2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jacobmarshall/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/jacobmarshall/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/jacobmarshall/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/jacobmarshall/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/jacobmarshall/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/jacobmarshall/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/jacobmarshall/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
