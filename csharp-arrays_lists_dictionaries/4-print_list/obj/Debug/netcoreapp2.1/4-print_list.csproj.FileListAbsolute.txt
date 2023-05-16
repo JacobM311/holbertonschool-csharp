@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/netcoreapp2.1/4-print_list.csproj.CoreCompileInputs.cache
