@@ -16,7 +16,7 @@ public class LList
             Console.Write(i + " ");
         }
 
-        Console.WriteLine();
+        Console.Write();
         return myList;
     }
 }
