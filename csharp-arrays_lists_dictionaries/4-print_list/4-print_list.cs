@@ -26,14 +26,3 @@ public class List
         return newList;
     }
 }
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        List<int> newList;
-
-        newList = List.CreatePrint(8);
-        Console.WriteLine("List Length: " + newList.Count);  
-    }
-}
