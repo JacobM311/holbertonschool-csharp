@@ -15,8 +15,6 @@ public class LList
             myList.AddLast(i);
             Console.Write(i);
         }
-
-        Console.Writeline();
         return myList;
     }
 }
