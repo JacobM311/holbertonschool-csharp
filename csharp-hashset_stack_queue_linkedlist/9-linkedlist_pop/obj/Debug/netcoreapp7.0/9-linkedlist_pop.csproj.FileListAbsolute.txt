@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp7.0/9-linkedlist_pop
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp7.0/9-linkedlist_pop.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp7.0/9-linkedlist_pop.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp7.0/9-linkedlist_pop.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp7.0/9-linkedlist_pop.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/refint/9-linkedlist_pop.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/9-linkedlist_pop.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp7.0/ref/9-linkedlist_pop.dll
