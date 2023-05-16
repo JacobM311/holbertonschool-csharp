@@ -18,14 +18,12 @@ public static Stack<string> Info(Stack<string> aStack, string newItem, string se
         {
             Stack<string> tempStack = new Stack<string>();
 
-            while (aStack.Count > 0 && aStack.Peek() != search)
+            while (aStack.Count > 0)
             {
-                tempStack.Push(aStack.Pop());
-            }
-
-            if (aStack.Count > 0)
-            {
-                tempStack.Push(aStack.Pop());
+                string item = aStack.Pop();
+                if (item == search)
+                    break;
+                tempStack.Push(item);
             }
 
             while (tempStack.Count > 0)
