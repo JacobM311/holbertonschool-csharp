@@ -1,43 +1,75 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
+public class MyStack
 {
-    int count = aStack.Count;
-    Console.WriteLine("Number of items: " + count);
-
-    if (count > 0)
+    public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        string topItem = aStack.Peek();
-        Console.WriteLine("Top item: " + topItem);
+        // Print the number of items in aStack
+        Console.WriteLine("Number of items: " + aStack.Count);
 
+        // Print the item at the top of aStack without removing it
+        if (aStack.Count > 0)
+            Console.WriteLine("Top item: " + aStack.Peek());
+        else
+            Console.WriteLine("Stack is empty");
+
+        // Print if aStack contains a given item search
         bool containsSearch = aStack.Contains(search);
         Console.WriteLine("Stack contains \"" + search + "\": " + containsSearch);
 
+        // If aStack contains the given item search, remove all items up to and including search
         if (containsSearch)
         {
-            Stack<string> tempStack = new Stack<string>();
-
-            while (aStack.Count > 0)
+            Queue<string> tempQueue = new Queue<string>();
+            string item;
+            do
             {
-                string item = aStack.Pop();
-                if (item == search)
-                    break;
-                tempStack.Push(item);
+                item = aStack.Pop();
+                tempQueue.Enqueue(item);
             }
-
-            while (tempStack.Count > 0)
+            while (!item.Equals(search));
+            
+            // Place items back into aStack
+            while (tempQueue.Count > 0)
             {
-                aStack.Push(tempStack.Pop());
+                aStack.Push(tempQueue.Dequeue());
             }
         }
+
+        // Add a new given item newItem to aStack
+        aStack.Push(newItem);
+
+        return aStack;
     }
-    else
+}
+
+
+
+class Program
+{
+    // Main - entry point
+    static void Main(string[] args)
     {
-        Console.WriteLine("Stack is empty");
+        Stack<string> aStack = new Stack<string>();
+
+        aStack.Push("C");
+        aStack.Push("HTML");
+        aStack.Push("Javascript");
+        aStack.Push("Python");
+        aStack.Push("React");
+        aStack.Push("Ruby");
+
+        foreach (string item in aStack)
+            Console.WriteLine(item);
+
+        Console.WriteLine("------");
+
+        MyStack.Info(aStack, "C#", "Javascript");
+
+        Console.WriteLine("------");
+
+        foreach (string item in aStack)
+            Console.WriteLine(item);
     }
-
-    aStack.Push(newItem);
-
-    return aStack;
 }
