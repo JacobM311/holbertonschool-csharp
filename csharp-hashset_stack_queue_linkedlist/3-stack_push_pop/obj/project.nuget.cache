@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6S95oBPp7ZM2XpOcWJdFxvU18zsxnypjWVAq3nIOloPBKCgTexqd4VNIX+C0Z0y+rJMIe4FCe00dhtkVsiUycw==",
+  "dgSpecHash": "eYGys0/q1BWt9KHQfELOvJrtvIjohC3KVwHadMMiGgxsyW1uo5Wt0tGdiN92nW7IE9yArWh1H/6ImQVf0OdJow==",
   "success": true,
   "projectFilePath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/3-stack_push_pop.csproj",
   "expectedPackageFiles": [],
