@@ -3,17 +3,13 @@ using System.Collections.Generic;
 
 public class LList
 {
-    public static int GetNode(LinkedList<int> myLList, int n)
+    public static int Sum(LinkedList<int> myLList)
     {
-        int index = 0;
+        int sum = 0;
         foreach (int item in myLList)
         {
-            if (index == n)
-            {
-                return item;
-            }
-            index++;
+            sum += item;
         }
-        return 0;
+        return sum;
     }
 }
