@@ -11,16 +11,29 @@ public class List
             return null;
         }
 
-        List<int> intList = new List<int>();
+        List<int> newList = new List<int>();
 
         for (int i = 0; i < size; i++)
         {
-            intList.Add(i);
-            Console.Write(i + " ");
+            newList.Add(i);
+            Console.Write(i);
+            
+            if (i < size - 1)
+                Console.Write(" ");
         }
-
         Console.WriteLine();
 
-        return intList;
+        return newList;
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        List<int> newList;
+
+        newList = List.CreatePrint(8);
+        Console.WriteLine("List Length: " + newList.Count);  
     }
 }
