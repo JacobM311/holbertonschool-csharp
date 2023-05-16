@@ -13,7 +13,7 @@ public class LList
         for (int i = 0; i < size; i++)
         {
             myList.AddLast(i);
-            Console.Write(i);
+            Console.WriteLine(i);
         }
         return myList;
     }
