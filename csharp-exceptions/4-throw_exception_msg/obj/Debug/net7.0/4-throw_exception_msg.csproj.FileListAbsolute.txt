@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/net7.0/4-throw_exception_msg.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/refint/4-throw_exception_msg.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/4-throw_exception_msg.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/net7.0/ref/4-throw_exception_msg.dll
