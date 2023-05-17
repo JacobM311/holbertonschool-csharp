@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net7.0/1-divide_print
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net7.0/1-divide_print.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net7.0/1-divide_print.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net7.0/1-divide_print.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/bin/Debug/net7.0/1-divide_print.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/refint/1-divide_print.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/1-divide_print.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/1-divide_print/obj/Debug/net7.0/ref/1-divide_print.dll
