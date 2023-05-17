@@ -14,7 +14,7 @@ public class List
                 if(i >= list1.Count || i >= list2.Count)
                 {
                     Console.WriteLine("Out of range");
-                    break;
+                    continue;
                 }
                 
                 result.Add(list1[i] / list2[i]);

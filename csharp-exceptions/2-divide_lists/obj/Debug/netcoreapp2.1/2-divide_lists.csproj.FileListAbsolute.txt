@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.csproj.CoreCompileInputs.cache

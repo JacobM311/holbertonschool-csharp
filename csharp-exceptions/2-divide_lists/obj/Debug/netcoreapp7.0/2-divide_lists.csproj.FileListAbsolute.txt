@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp7.0/2-divide_lists
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp7.0/2-divide_lists.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp7.0/2-divide_lists.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp7.0/2-divide_lists.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp7.0/2-divide_lists.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/refint/2-divide_lists.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/2-divide_lists.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp7.0/ref/2-divide_lists.dll
