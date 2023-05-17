@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/refint/3-throw_exception.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/ref/3-throw_exception.dll
