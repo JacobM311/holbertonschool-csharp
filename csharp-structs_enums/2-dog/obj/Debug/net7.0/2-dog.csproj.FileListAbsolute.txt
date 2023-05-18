@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/bin/Debug/net7.0/2-dog
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/bin/Debug/net7.0/2-dog.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/bin/Debug/net7.0/2-dog.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/bin/Debug/net7.0/2-dog.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/bin/Debug/net7.0/2-dog.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/refint/2-dog.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/2-dog.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-structs_enums/2-dog/obj/Debug/net7.0/ref/2-dog.dll
