@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/1-enemy/obj/Debug/netcoreapp2.1/1-enemy.csproj.CoreCompileInputs.cache
