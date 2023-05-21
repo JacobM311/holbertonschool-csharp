@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.csproj.CoreCompileInputs.cache
