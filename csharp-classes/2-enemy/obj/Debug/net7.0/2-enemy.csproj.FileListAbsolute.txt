@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net7.0/2-enemy
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net7.0/2-enemy.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net7.0/2-enemy.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net7.0/2-enemy.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net7.0/2-enemy.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/refint/2-enemy.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/2-enemy.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net7.0/ref/2-enemy.dll
