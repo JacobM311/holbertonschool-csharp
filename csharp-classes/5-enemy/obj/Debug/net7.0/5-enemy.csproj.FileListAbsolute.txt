@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.csproj.CoreCompileInputs.cache
