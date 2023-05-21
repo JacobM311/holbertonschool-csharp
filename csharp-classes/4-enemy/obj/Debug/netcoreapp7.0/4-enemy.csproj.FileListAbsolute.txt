@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/bin/Debug/netcoreapp7.0/4-enemy
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/bin/Debug/netcoreapp7.0/4-enemy.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/bin/Debug/netcoreapp7.0/4-enemy.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/bin/Debug/netcoreapp7.0/4-enemy.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/bin/Debug/netcoreapp7.0/4-enemy.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/refint/4-enemy.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/4-enemy.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-classes/4-enemy/obj/Debug/netcoreapp7.0/ref/4-enemy.dll
