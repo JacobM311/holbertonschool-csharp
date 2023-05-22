@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using Text;
 
-namespace Text.Tests
+namespace Tests
 {
 
     public class Tests
