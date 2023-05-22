@@ -1,0 +1,5 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.csproj.CoreCompileInputs.cache
