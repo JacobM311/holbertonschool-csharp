@@ -10,13 +10,20 @@ namespace Text
         {
             int words = 1;
 
-            for(int i = 0; i < s.Length; i++)
+            if(s.Length == 0)
             {
-                if(Char.IsUpper(s[i]))
+                return 0;
+            }
+            else
+            {
+                for(int i = 0; i < s.Length; i++)
                 {
-                    words++;
-                }
+                    if(Char.IsUpper(s[i]))
+                    {
+                        words++;
+                    }
 
+                }
             }
             return words;
         }
