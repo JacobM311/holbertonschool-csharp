@@ -5,10 +5,11 @@ namespace Text
 {
     public class Str
     {
-        int words = 1;
 
         public static int CamelCase(string s)
         {
+            int words = 1;
+
             for(int i = 0; i < s.Length; i++)
             {
                 if(Char.IsUpper(s[i]))
