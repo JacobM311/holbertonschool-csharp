@@ -3,7 +3,7 @@ using System;
 
 namespace Text
 {
-    public class Class1
+    public class Str
     {
         int words = 1;
 
