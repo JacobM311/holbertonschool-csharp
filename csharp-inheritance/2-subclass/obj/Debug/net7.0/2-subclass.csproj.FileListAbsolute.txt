@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net7.0/2-subclass.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/refint/2-subclass.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/2-subclass.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net7.0/ref/2-subclass.dll
