@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/refint/3-type_get.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/ref/3-type_get.dll
