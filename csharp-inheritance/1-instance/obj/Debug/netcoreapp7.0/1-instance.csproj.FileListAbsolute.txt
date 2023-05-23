@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/netcoreapp7.0/1-instance
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/netcoreapp7.0/1-instance.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/netcoreapp7.0/1-instance.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/netcoreapp7.0/1-instance.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/netcoreapp7.0/1-instance.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/refint/1-instance.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/1-instance.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/netcoreapp7.0/ref/1-instance.dll
