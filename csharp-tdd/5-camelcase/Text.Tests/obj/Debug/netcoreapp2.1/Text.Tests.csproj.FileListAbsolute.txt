@@ -1,0 +1,6 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text.Tests/bin/Debug/netcoreapp2.1/CoverletSourceRootsMapping
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text.Tests/obj/Debug/netcoreapp2.1/Text.Tests.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text.Tests/obj/Debug/netcoreapp2.1/Text.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text.Tests/obj/Debug/netcoreapp2.1/Text.Tests.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text.Tests/obj/Debug/netcoreapp2.1/Text.Tests.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text.Tests/obj/Debug/netcoreapp2.1/Text.Tests.csproj.CoreCompileInputs.cache

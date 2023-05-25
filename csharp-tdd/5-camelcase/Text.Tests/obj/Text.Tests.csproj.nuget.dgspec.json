@@ -17,15 +17,19 @@
           "/Users/jacobmarshall/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/Text.csproj": {
+                "projectPath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/Text.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -35,12 +39,18 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.3.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
             },
             "NUnit": {
               "target": "Package",
@@ -70,11 +80,62 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/Text.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/Text.csproj",
+        "projectName": "Text",
+        "projectPath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/Text.csproj",
+        "packagesPath": "/Users/jacobmarshall/.nuget/packages/",
+        "outputPath": "/Users/jacobmarshall/holbertonschool-csharp/csharp-tdd/5-camelcase/Text/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jacobmarshall/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }

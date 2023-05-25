@@ -3,8 +3,8 @@ using Text;
 
 namespace Tests
 {
-
-    public class Tests
+    [TestFixture]
+    public class StrTests
     {
         [Test]
         public void Test_EmptyString()
