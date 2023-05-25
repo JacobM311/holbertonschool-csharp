@@ -1,33 +1,56 @@
 using NUnit.Framework;
 using Text;
 
-namespace Tests
+namespace Text.Tests
 {
-    [TestFixture]
-    public class StrTests
+	[TestFixture]
+    public class Tests
     {
         [Test]
-        public void Test_EmptyString()
+        public void CamelCase()
         {
-            Assert.AreEqual(0, Str.CamelCase(""));
+			string test = "helloMyNameIs";
+			int result = Str.CamelCase(test);
+            Assert.AreEqual(4, result);
         }
 
         [Test]
-        public void Test_SingleWord()
+        public void CamelCaseOneWord()
         {
-            Assert.AreEqual(1, Str.CamelCase("hello"));
+			string test = "hello";
+			int result = Str.CamelCase(test);
+            Assert.AreEqual(1, result);
         }
 
         [Test]
-        public void Test_TwoWords()
+        public void CamelCaseTwoWords()
         {
-            Assert.AreEqual(2, Str.CamelCase("helloWorld"));
+			string test = "helloMy";
+			int result = Str.CamelCase(test);
+            Assert.AreEqual(2, result);
+		}
+
+        [Test]
+        public void CamelCaseEmptyString()
+        {
+			string test = "";
+			int result = Str.CamelCase(test);
+            Assert.AreEqual(0, result);
         }
 
         [Test]
-        public void Test_MultipleWords()
+        public void CamelCaseNull()
         {
-            Assert.AreEqual(4, Str.CamelCase("helloWorldCamelCase"));
+			int result = Str.CamelCase(null);
+            Assert.AreEqual(0, result);
         }
+
+        [Test]
+        public void CamelCaseTwoFollowed()
+        {
+			string test = "helloIAmHere";
+			int result = Str.CamelCase(test);
+            Assert.AreEqual(4, result);
+		}
     }
 }
