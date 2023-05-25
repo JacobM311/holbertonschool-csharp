@@ -1,0 +1,15 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.csproj.AssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/refint/8-shape.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.genruntimeconfig.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/ref/8-shape.dll
