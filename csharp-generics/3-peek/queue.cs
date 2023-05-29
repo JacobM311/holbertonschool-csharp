@@ -4,7 +4,7 @@ class Queue<T>
 {
     public Node head = null;
     public Node tail = null;
-    public int count = 1;
+    public int count = 0;
 
     public int Count()
     {
