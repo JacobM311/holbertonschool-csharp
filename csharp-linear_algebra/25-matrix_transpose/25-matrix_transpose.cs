@@ -2,31 +2,20 @@
 
 public class MatrixMath
 {
-    public static double[,] Shear2D(double[,] matrix, char direction, double factor)
+    public static double[,] Transpose(double[,] matrix)
     {
-        if (matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2)
+        int rows = matrix.GetLength(0);
+        int cols = matrix.GetLength(1);
+        double[,] transposedMatrix = new double[cols, rows];
+
+        for (int i = 0; i < rows; i++)
         {
-            return new double[,] { { -1 } };
+            for (int j = 0; j < cols; j++)
+            {
+                transposedMatrix[j, i] = matrix[i, j];
+            }
         }
 
-        double[,] result = new double[2, 2];
-        Array.Copy(matrix, result, matrix.Length);
-
-        if (direction == 'x')
-        {
-            result[0, 0] += factor * result[0, 1];
-            result[1, 0] += factor * result[1, 1];
-        }
-        else if (direction == 'y')
-        {
-            result[0, 1] += factor * result[0, 0];
-            result[1, 1] += factor * result[1, 0];
-        }
-        else
-        {
-            return new double[,] { { -1 } };
-        }
-
-        return result;
+        return transposedMatrix;
     }
 }
