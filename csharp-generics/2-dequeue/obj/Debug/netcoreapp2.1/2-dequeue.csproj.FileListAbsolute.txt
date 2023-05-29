@@ -1,0 +1,11 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.csprojAssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.runtimeconfig.dev.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/bin/Debug/netcoreapp2.1/2-dequeue.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-generics/2-dequeue/obj/Debug/netcoreapp2.1/2-dequeue.pdb
