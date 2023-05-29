@@ -19,6 +19,7 @@ class Queue<T>
         {
             head = newNode;
             tail = newNode;
+            count++;
         }
         else
         {
