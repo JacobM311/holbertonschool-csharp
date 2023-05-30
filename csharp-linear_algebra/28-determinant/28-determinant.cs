@@ -10,18 +10,20 @@
         if (rows < 2 || rows > 3) // We only handle 2x2 or 3x3 matrices
             return -1;
 
+        double determinant = 0;
+
         if (rows == 2) // 2x2 matrix determinant
         {
-            return matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0];
+            determinant = matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0];
         }
         else // 3x3 matrix determinant
         {
-            double determinant = 0;
             determinant += matrix[0, 0] * (matrix[1, 1] * matrix[2, 2] - matrix[1, 2] * matrix[2, 1]);
             determinant -= matrix[0, 1] * (matrix[1, 0] * matrix[2, 2] - matrix[1, 2] * matrix[2, 0]);
             determinant += matrix[0, 2] * (matrix[1, 0] * matrix[2, 1] - matrix[1, 1] * matrix[2, 0]);
-            return determinant;
         }
+        
+        // Round to 2 decimal places
+        return Math.Round(determinant, 2);
     }
 }
-
