@@ -32,12 +32,9 @@ public interface ICollectable
 
 public class Door : Base, IInteractive
 {
+    public Door() : this("Door"){}
     public Door(string name)
     {
-        if (name == null)
-        {
-            name = "Door";
-        }
         this.name = name;
     }
 
