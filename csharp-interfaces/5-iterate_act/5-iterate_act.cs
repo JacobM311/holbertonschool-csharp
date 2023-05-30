@@ -51,7 +51,7 @@ public class Decoration : Base, IInteractive, IBreakable
     public int durability { get; set; }
 
     public Decoration() : this("Decoration", 1, false){}
-    public Decoration(string name, int durability) : this(name, 1, false){}
+    public Decoration(string name, int durability) : this(name, durability, false){}
     public Decoration(string name) : this(name, 1, false){}
     public Decoration(string name, bool isQuestItem) : this(name, 1, isQuestItem){}
     public Decoration(int durability, bool isQuestItem) : this("Decoration", durability, isQuestItem){}
@@ -75,7 +75,7 @@ public class Decoration : Base, IInteractive, IBreakable
         {
             Console.WriteLine($"You hit the {name}. It cracks.");
         }
-        else if(durability == 0)
+        else if(durability <= 0)
         {
             Console.WriteLine($"You smash the {name}. What a mess.");
         }
