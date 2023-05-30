@@ -4,7 +4,7 @@ using System.Reflection;
 
 public abstract class Base
 {
-    public string name;
+    public string name { get; set; }
 
     public override string ToString()
     {
@@ -48,5 +48,24 @@ public class TestObject : Base, IBreakable, IInteractive, ICollectable
     public void Interact()
     {
         // provide implementation
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        TestObject item = new TestObject();
+        Type type = item.GetType();
+
+        Console.WriteLine("Type: " + type);
+
+        Console.WriteLine("Properties:");
+        foreach (PropertyInfo info in type.GetProperties())
+            Console.WriteLine(info.Name);
+
+        Console.WriteLine("Methods:");
+        foreach (MethodInfo info in type.GetMethods())
+            Console.WriteLine(info.Name);
     }
 }
