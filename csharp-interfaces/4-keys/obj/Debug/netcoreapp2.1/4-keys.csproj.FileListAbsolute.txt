@@ -1,0 +1,11 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.csprojAssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.runtimeconfig.dev.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/netcoreapp2.1/4-keys.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/netcoreapp2.1/4-keys.pdb
