@@ -86,18 +86,3 @@ public class Decoration : Base, IInteractive, IBreakable
         }
     }
 }
-class Program
-{
-    static void Main(string[] args)
-    {
-        Decoration figurine = new Decoration(durability: 10, isQuestItem: true);
-
-        Console.WriteLine(figurine.ToString());
-
-        figurine.Interact();
-        figurine.Break();
-        figurine.Break();
-        figurine.Interact();
-        Console.WriteLine("isQuestItem: " + figurine.isQuestItem);
-    }
-}
