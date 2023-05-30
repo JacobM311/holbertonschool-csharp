@@ -36,8 +36,9 @@ public class Decoration : Base, IInteractive, IBreakable
     public int durability { get; set; }
 
     public Decoration() : this("Decoration", 1, false){}
-    public Decoration(string name, int durability) : this(name, durability, false){}
+    public Decoration(string name, int durability) : this(name, 1, false){}
     public Decoration(string name) : this(name, 1, false){}
+    public Decoration(string name, bool isQuestItem) : this(name, 1, isQuestItem){}
 
     public Decoration(string name, int durability, bool isQuestItem)
     {
@@ -82,5 +83,25 @@ public class Decoration : Base, IInteractive, IBreakable
         {
             Console.WriteLine($"You look at the {name}. Not much to see here.");
         }
+    }
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+        Decoration figurine = new Decoration("Expensive Figurine", isQuestItem: true);
+
+        Console.WriteLine(figurine.ToString());
+
+        figurine.Interact();
+        figurine.Break();
+        figurine.Break();
+
+        figurine.name = "Cheap Figurine";
+        figurine.durability = 2;
+        figurine.isQuestItem = false;
+
+        figurine.Interact();
+        figurine.Break();
     }
 }
