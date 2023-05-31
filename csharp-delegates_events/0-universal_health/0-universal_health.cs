@@ -2,8 +2,8 @@
 
 public class Player
 {
-    private string name { get; private set; }
-    private float maxHp { get; private set; }
+    private string name { get; set; }
+    private float maxHp { get; set; }
     public float hp { get; private set; }
 
     public Player() : this("Player", 100f){}
