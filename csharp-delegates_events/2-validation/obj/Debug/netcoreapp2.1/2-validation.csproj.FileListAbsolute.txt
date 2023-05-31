@@ -1,0 +1,11 @@
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/bin/Debug/netcoreapp2.1/2-validation.deps.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/bin/Debug/netcoreapp2.1/2-validation.runtimeconfig.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/bin/Debug/netcoreapp2.1/2-validation.runtimeconfig.dev.json
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/bin/Debug/netcoreapp2.1/2-validation.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/bin/Debug/netcoreapp2.1/2-validation.pdb
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/obj/Debug/netcoreapp2.1/2-validation.csprojAssemblyReference.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/obj/Debug/netcoreapp2.1/2-validation.csproj.CoreCompileInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/obj/Debug/netcoreapp2.1/2-validation.AssemblyInfoInputs.cache
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/obj/Debug/netcoreapp2.1/2-validation.AssemblyInfo.cs
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/obj/Debug/netcoreapp2.1/2-validation.dll
+/Users/jacobmarshall/holbertonschool-csharp/csharp-delegates_events/2-validation/obj/Debug/netcoreapp2.1/2-validation.pdb
