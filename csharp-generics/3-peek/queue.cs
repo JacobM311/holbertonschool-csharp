@@ -65,6 +65,16 @@ class Queue<T>
         return typeof(T);
     }
 
+    public void Print()
+    {
+        Node temp = head;
+        while (temp != null)
+        {
+            Console.WriteLine(temp.value);
+            temp = temp.next;
+        }
+    }
+
     public class Node
     {
         public T value { get; set; }

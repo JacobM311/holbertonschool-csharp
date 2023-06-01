@@ -36,4 +36,5 @@ public class Rectangle : Shape
                 height = value;
         }
     }
+    public new int Area()
 }

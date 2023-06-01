@@ -5,6 +5,7 @@ public class Player
     private string name { get; set; }
     private float maxHp { get; set; }
     public float hp { get; private set; }
+    public delegate void CalculateHealth(float amount);
 
     public Player() : this("Player", 100f){}
     public Player(string name) : this(name, 100f){}
@@ -25,5 +26,36 @@ public class Player
     public void PrintHealth()
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");
+    }
+
+    public void TakeDamage(float damage)
+    {
+        if (damage < 0)
+        {
+            Console.WriteLine($"{name} takes 0 damage!");
+        }
+        Console.WriteLine($"{name} takes {damage} damage!");
+    }
+
+    public void HealDamage(float heal)
+    {
+        if (heal < 0)
+        {
+            Console.WriteLine($"{name} heals 0 HP!");
+        }
+        Console.WriteLine($"{name} heals {heal} HP!");
+    }
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+        Player player = new Player("Electric Mouse");
+
+        player.TakeDamage(25f);
+
+        player.HealDamage(10f);
+
+        player.TakeDamage(-25f);
     }
 }

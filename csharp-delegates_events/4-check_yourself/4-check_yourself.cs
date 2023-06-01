@@ -125,7 +125,6 @@ public class Player
     }
 }
 
-
 public class CurrentHPArgs : EventArgs
 {
     public float currentHp { get; }

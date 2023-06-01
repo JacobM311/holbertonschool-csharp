@@ -1,18 +1,12 @@
 ﻿using System;
 
-class Array
+public class Array
 {
     public static void Reverse(int[] array)
     {
         if (array == null)
         {
-            Console.WriteLine();
-            return;
-        }
-
-        if (array.Length == 0)
-        {
-            Console.WriteLine();
+            Console.WriteLine("Array is null");
             return;
         }
 
@@ -21,5 +15,25 @@ class Array
             Console.Write(array[i] + " ");
         }
         Console.WriteLine();
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        List<int> newList;
+
+        newList = List.CreatePrint(10);
+        Console.WriteLine("List Length: " + newList.Count);
+        Console.WriteLine("----------------");
+        newList = List.CreatePrint(16);
+        Console.WriteLine("List Length: " + newList.Count);
+        Console.WriteLine("----------------");
+        newList = List.CreatePrint(0);
+        Console.WriteLine("List Length: " + newList.Count);
+        Console.WriteLine("----------------");
+        newList = List.CreatePrint(1);
+        Console.WriteLine("List Length: " + newList.Count);        
     }
 }
