@@ -15,7 +15,6 @@ public class Player
     public float hp { get; set; }
     private string status { get; set; }
 
-    // HPCheck event
     public event EventHandler<CurrentHPArgs> HPCheck;
 
     public Player(string name="Player", float maxHp=100f)
@@ -96,11 +95,9 @@ public class Player
             hp = newHp;
         }
 
-        // Trigger the HPCheck event
         HPCheck?.Invoke(this, new CurrentHPArgs(hp));
     }
 
-    // CheckStatus method
     private void CheckStatus(object sender, CurrentHPArgs e)
     {
         if (e.currentHp == maxHp)
@@ -136,28 +133,5 @@ public class CurrentHPArgs : EventArgs
     public CurrentHPArgs(float newHp)
     {
         newHp = currentHp;
-    }
-}
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        Player player = new Player("Electric Mouse");
-        CalculateModifier mod = new CalculateModifier(player.ApplyModifier);
-
-        player.PrintHealth();
-        Console.WriteLine();
-
-        player.TakeDamage(mod(75f, Modifier.Base));
-        player.PrintHealth();
-        Console.WriteLine();
-
-        player.HealDamage(mod(25f, Modifier.Base));
-        player.PrintHealth();
-        Console.WriteLine();
-
-        player.TakeDamage(mod(50f, Modifier.Base));
-        player.PrintHealth();
     }
 }
