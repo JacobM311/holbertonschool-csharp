@@ -151,6 +151,6 @@ public class Objs<T> : IEnumerable<T>
 
     IEnumerator IEnumerable.GetEnumerator()
     {
-        return GetEnumerator();
+        return items.GetEnumerator();
     }
 }
