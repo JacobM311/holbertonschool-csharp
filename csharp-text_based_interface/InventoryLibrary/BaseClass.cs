@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Class1
+public class BaseClass
 {
     public string id;
     public DateTime date_created;
